@@ -1,0 +1,48 @@
+{
+    "camera/color/pikaDepthCamera": [
+        233
+    ],
+    "camera/colorExtrinsic/pikaDepthCamera": [
+        4,
+        4
+    ],
+    "camera/colorIntrinsic/pikaDepthCamera": [
+        3,
+        3
+    ],
+    "camera/depth/pikaDepthCamera": [
+        233
+    ],
+    "camera/depthExtrinsic/pikaDepthCamera": [
+        4,
+        4
+    ],
+    "camera/depthIntrinsic/pikaDepthCamera": [
+        3,
+        3
+    ],
+    "gripper/encoderAngle/pika": [
+        233
+    ],
+    "gripper/encoderDistance/pika": [
+        233
+    ],
+    "imu/9axisAngularVelocity/pika": [
+        233,
+        3
+    ],
+    "imu/9axisLinearAcceleration/pika": [
+        233,
+        3
+    ],
+    "imu/9axisOrientation/pika": [
+        233,
+        4
+    ],
+    "instruction": [],
+    "localization/pose/pika": [
+        233,
+        6
+    ],
+    "size": []
+}

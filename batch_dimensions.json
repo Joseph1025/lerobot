@@ -1,0 +1,38 @@
+{
+    "observation.images.laptop": [
+        1,
+        3,
+        480,
+        640
+    ],
+    "observation.images.phone": [
+        1,
+        3,
+        480,
+        640
+    ],
+    "action": [
+        1,
+        6
+    ],
+    "observation.state": [
+        1,
+        6
+    ],
+    "timestamp": [
+        1
+    ],
+    "frame_index": [
+        1
+    ],
+    "episode_index": [
+        1
+    ],
+    "index": [
+        1
+    ],
+    "task_index": [
+        1
+    ],
+    "task": null
+}
