@@ -30,6 +30,8 @@ Pipfile.lock
 
 ### Build & Distribution ###
 build/
+ckpt/
+temp_dataset/
 dist/
 sdist/
 wheels/
